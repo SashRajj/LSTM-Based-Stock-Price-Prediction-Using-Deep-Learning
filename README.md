@@ -1,4 +1,4 @@
-# Stock Price Prediction
+# LSTM-Based Stock Price Prediction Using Deep Learning
 
 This repository contains a detailed implementation of a stock price prediction model leveraging Long Short-Term Memory (LSTM) networks. The project is designed to predict future stock prices based on historical data and provides visualizations to analyze the model's performance. 
 
